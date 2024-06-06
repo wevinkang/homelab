@@ -7,4 +7,5 @@ The major issue in doing this was trying to solve the file format compatibility 
 However, after procrastinating touching my home lab due to the forementioned issue, it turns out I forgot my password to my Windows victim VM.
 I tried looking for solutions with no hope and almost thought to just restart the installation of the Windows VM all over again, but wanted to see if I could troubleshoot this problem another way.
 Eventually I found a subreddit to a link that was able to help reset the Windows password with a Boot CD (https://www.bing.com/search?pglt=171&q=hard+drive+file+types&cvid=b038a335d2da44acba9780efa8aea4d4&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCDYwMjdqMGoxqAIAsAIA&FORM=ANNTA1&PC=U531)
+(Now I don't have to reinstall my SIEM agent either lol)
 
