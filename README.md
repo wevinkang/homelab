@@ -19,4 +19,5 @@ Process of building a new home lab
 12. Configure Splunk universal forwarder to forward sysmon logs to the Splunk server.
   This also caused some issues, as when I ran into the previous problem. I had not touched this project for a few months and the Splunk enterprise license had expired. Splunk Free
   doesn't allow you to add forwarders and since I didn't want to upload csv files for data, I decided to choose a different SIEM - Wazuh.
-13. Uninstall Splunk and install Wazuh. 
+13. Uninstall Splunk and install Wazuh.
+14. Deploy the Wazuh agent onto the Windows host, check connectivity and logging.
