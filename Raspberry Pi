@@ -1,5 +1,8 @@
-Pi Ideas
-- 
+Pi Project Ideas
+- PiHole
+- PiVPN
+- Home Automation
+- NAS
 
 Hardware Requirements 
 - Raspberry Pi 5
@@ -9,3 +12,4 @@ Hardware Requirements
 - Cooler / Heat Sink
 - Case (Optional)
 - Micro HDMI (Optional)
+- HD or SSD (NAS)
