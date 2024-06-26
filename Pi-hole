@@ -1,0 +1,11 @@
+#updates
+sudo apt update && sudo apt upgrade 
+#Set a static IP for your server on your router with DHCP reservation
+#install 
+curl -sSL https://install.pi-hole.net | bash
+#Go through the Pi-Hole prompted settings as needed 
+#You'll be provided a password, which we will want to change
+pihole -a -p newpassword
+
+OPTIONAL
+#
