@@ -4,3 +4,11 @@ sudo apt install unattended-upgrades
 sudo dpkg-reconfigure --priority=low unattended-upgrades
 
 Create a user with sudo priv instead of using root. However, I am securing a raspberry pi server and root login is default disabled and user with sudo priv was already configured during OS installation.
+
+Securing SSH
+- Using publickey authentication and then requiring all password authentications to use 2FA/MFA.
+- Configuring sshd_config settings securely
+
+TODO
+- Set up ufw firewall and rules
+- Setup network security monitoring
