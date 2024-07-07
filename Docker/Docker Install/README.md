@@ -26,3 +26,9 @@ Validate installation:
 ``` bash
 sudo docker run hello-world
 ```
+Output should look like:
+```
+Hello from Docker!
+This message shows that your installation appears to be working correctly.
+And so on...
+```
