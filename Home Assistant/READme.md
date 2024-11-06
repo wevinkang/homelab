@@ -27,3 +27,7 @@ Bring up container
 ``` bash
 sudo docker compose up -d
 ```
+Allow the port in UFW
+``` bash
+sudo ufw allow 8123 comment 'Allow Home Assistant Web Access'
+```
